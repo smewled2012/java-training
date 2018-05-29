@@ -33,6 +33,7 @@ public class factorial {
 		int sum = factor(num);
 		
 		System.out.println("Tha factorial of the number is "+ sum);
+		System.out.println("the factoriial function is done !");
 
 	}
 
