@@ -34,6 +34,7 @@ public class factorial {
 		
 		System.out.println("Tha factorial of the number is "+ sum);
 		System.out.println("the factoriial function is done !");
+		System.out.println(" Adding some files from git hub");
 
 	}
 
